@@ -20,8 +20,8 @@ Proyecto colaborativo del curso Ciencia de Datos (Uniagraria). Es un tutorial co
 ## Estructura del repositorio
 
 - `README.md`: descripción del proyecto.
-- `funciones_integrante1.ipynb`: funciones documentadas por [Nombre 1].
-- `funciones_integrante2.ipynb`: funciones documentadas por [Nombre 2].
+- `funciones_integrante1.ipynb`: funciones documentadas por [Daniel Carrillo].
+- `funciones_integrante2.ipynb`: funciones documentadas por [Daniela Baquero].
 - `.gitignore`: archivos que Git debe ignorar.
 
 ## Cómo ver los notebooks
