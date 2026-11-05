@@ -6,8 +6,8 @@ Proyecto colaborativo del curso Ciencia de Datos (Uniagraria). Es un tutorial co
 
 | Integrante | Usuario de GitHub | Notebook |
 |---|---|---|
-| [Nombre 1] | [usuario] | `funciones_integrante1.ipynb` |
-| [Nombre 2] | [usuario] | `funciones_integrante2.ipynb` |
+| [Daniel Carrillo] | [DANCAR] | `funciones_integrante1.ipynb` |
+| [Daniela Baquero] | [danieladbc05] | `funciones_integrante2.ipynb` |
 
 ## Contenido
 
